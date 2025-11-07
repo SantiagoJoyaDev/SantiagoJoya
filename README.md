@@ -17,7 +17,7 @@
 `Python` • `PHP` • `Java (básico)` • `HTML` • `CSS` • `JavaScript (básico)` • `Laravel` • `Django` • `WordPress`
 
 🗄️ **Bases de Datos**  
-`MySQL / MariaDB` • `MongoDB`
+`MySQL / MariaDB` • `MongoDB` • `PostgreSQL`
 
 ⚙️ **Herramientas y Metodologías**  
 `Git` • `GitHub` • `GitKraken` • `Scrum Fundamentals`
@@ -42,21 +42,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/santiago-joya-2221b4251/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="42" height="42" alt="LinkedIn"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="42" height="42" alt="LinkedIn" style="border: none; outline: none; box-shadow: none;"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:outlook.live.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="42" height="42" alt="Outlook"/>
+  <a href="mailto:outlook.live.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="42" height="42" alt="Outlook" style="border: none; outline: none; box-shadow: none;"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/SantiagoJoyaDev/SantiagoJoya" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub" style="border: none; outline: none; box-shadow: none;"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/0santiago_jb1?igsh=bmZmMzdtNmRpYWQw&utm_source=qr" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="42" height="42" alt="Instagram"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="42" height="42" alt="Instagram" style="border: none; outline: none; box-shadow: none;"/>
   </a>
 </p>
+
 
 ---
 
