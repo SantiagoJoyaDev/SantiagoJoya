@@ -1,82 +1,83 @@
-<!-- 🖼️ Banner image (replace this link with your own banner later) -->
+<!-- 🖼️ Imagen de banner (puedes reemplazar el enlace con uno personalizado) -->
 <p align="center">
-  <img src="https://i.imgur.com/6L0wYjg.png" alt="Santiago Joya banner" width="100%">
+  <img src="https://i.imgur.com/6L0wYjg.png" alt="Banner de Santiago Joya" width="100%">
 </p>
 
 # 👋 ¡Hola! Mi nombre es **Santiago Joya**
 
-🎯 **Junior Software Engineer | Backend Developer | Web Developer in Progress**  
+🎯 **Ingeniero de Software Junior | Desarrollador Backend | Web Developer en formación**  
 💡 Apasionado por crear soluciones limpias, funcionales y orientadas al usuario.  
-📚 Actualmente reforzando mis habilidades con **Python, PHP y bases de datos SQL/NoSQL**.
+📚 Actualmente reforzando mis habilidades con **Python** y **bases de datos SQL / NoSQL**.
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Stack Tecnológico
 
-💻 **Languages & Frameworks**  
-`Python` • `PHP` • `Java (basic)` • `HTML` • `CSS` • `JavaScript (basic)` • `WordPress`
+💻 **Lenguajes y Frameworks**  
+`Python` • `PHP` • `Java (básico)` • `HTML` • `CSS` • `JavaScript (básico)` • `WordPress`
 
-🗄️ **Databases**  
-`MySQL / MariaDB` • `PostgreSQL` • `MongoDB`
+🗄️ **Bases de Datos**  
+`MySQL / MariaDB` • `MongoDB`
 
-⚙️ **Tools & Workflow**  
+⚙️ **Herramientas y Metodologías**  
 `Git` • `GitHub` • `GitKraken` • `Scrum Fundamentals`
 
 ---
 
-### 🌱 Currently Learning
-- 🧩 Django & REST APIs  
-- ☁️ Deployment on Render / AWS  
-- 🚀 Building personal projects to strengthen backend logic  
+### 🌱 Aprendiendo Actualmente
+- 🧩 **Django & REST APIs**
+- 🗃️ **MongoDB y optimización de consultas**
+- 🚀 Desarrollo de proyectos personales para fortalecer la lógica backend y el trabajo con datos
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santiagojoya&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagojoya&layout=compact&theme=tokyonight" alt="Top Languages" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=santiagojoya&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagojoya&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" width="49%">
 </p>
 
 ---
 
-### 🧩 About Me
-👨‍💻 Soy un desarrollador junior interesado en el **desarrollo backend** y la **arquitectura de software**.  
-🌍 Busco seguir creciendo como profesional y colaborar en proyectos que aporten valor real.  
-🎮 En mi tiempo libre me gusta aprender sobre nuevas tecnologías, diseño de interfaces y videojuegos.
+### 🧩 Sobre Mí
+👨‍💻 Soy un desarrollador junior enfocado en el **desarrollo backend** y la **gestión de bases de datos**.  
+🌍 Busco seguir creciendo profesionalmente y colaborar en proyectos que generen impacto real.  
+📊 Me apasiona el análisis de datos, la optimización de consultas y el diseño de estructuras eficientes.
 
 ---
 
-### 📫 Connect with Me
+### 📫 Conecta Conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/santiagojoya">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### 🎨 My Favorite Tools
+### 🎨 Mis Herramientas Favoritas
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,java,html,css,javascript,wordpress,mysql,postgresql,mongodb,git,github,gitkraken,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,php,java,html,css,javascript,wordpress,mysql,mongodb,git,github,gitkraken,vscode" />
 </p>
 
 ---
 
-### ⚡ Fun Quote
-> “The expert in anything was once a beginner.” – Helen Hayes  
+### ⚡ Frase Motivacional
+> “El experto en cualquier cosa fue alguna vez un principiante.” – Helen Hayes  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=santiagojoya&color=blueviolet&style=for-the-badge" alt="Profile Views Counter">
+  <img src="https://komarev.com/ghpvc/?username=santiagojoya&color=blueviolet&style=for-the-badge" alt="Contador de visitas al perfil">
 </p>
 
 ---
@@ -87,4 +88,4 @@
 
 ---
 
-<!-- END OF FILE -->
+<!-- FIN DEL ARCHIVO -->
